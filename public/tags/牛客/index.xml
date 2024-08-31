@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nekomoeno&#39;s Blog</title>
-    <link>https://nekomoeno.github.io/</link>
-    <description>Recent content on Nekomoeno&#39;s Blog</description>
+    <title>牛客 on Nekomoeno&#39;s Blog</title>
+    <link>https://nekomoeno.github.io/tags/%E7%89%9B%E5%AE%A2/</link>
+    <description>Recent content in 牛客 on Nekomoeno&#39;s Blog</description>
     <image>
       <title>Nekomoeno&#39;s Blog</title>
       <url>https://nekomoeno.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- 0.126.0</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 31 Aug 2024 20:42:21 +0800</lastBuildDate>
-    <atom:link href="https://nekomoeno.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nekomoeno.github.io/tags/%E7%89%9B%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>算法练习 前缀和与差分</title>
       <link>https://nekomoeno.github.io/posts/algorithm-prefix-sum-and-difference/</link>
       <pubDate>Sat, 31 Aug 2024 20:42:21 +0800</pubDate>
       <guid>https://nekomoeno.github.io/posts/algorithm-prefix-sum-and-difference/</guid>
       <description>Desc Text.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://nekomoeno.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nekomoeno.github.io/about/</guid>
-      <description>呃呃呃</description>
     </item>
   </channel>
 </rss>

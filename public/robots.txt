@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nekomoeno.github.io/sitemap.xml
