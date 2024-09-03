@@ -113,7 +113,7 @@ params:
     - name: bilibili
       url: "https://space.bilibili.com/36206711"
     - name: email
-      url: "nekomoeno@qq.com"
+      url: "mailto:nekomoeno@qq.com"
     
   analytics:
     google:
