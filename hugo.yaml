@@ -30,18 +30,18 @@ defaultContentLanguageInSubdir: false
 
 menu:
   main:
-    # - identifier: search
-    #   name: 🔍 搜索
-    #   url: search
-    #   weight: 1
+    - identifier: search
+      name: 🔍 搜索
+      url: search
+      weight: 1
     - identifier: tags
       name: 🧩 标签
       url: tags
       weight: 15
-    # - identifier: archives
-    #   name: ⏱️ 时间轴
-    #   url: archives/
-    #   weight: 20
+    - identifier: archives
+      name: ⏱️ 时间轴
+      url: archives
+      weight: 20
     - identifier: about
       name: 🙋🏻‍♂️ 关于
       url: about
